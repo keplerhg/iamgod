@@ -1,5 +1,5 @@
 # Portafolio
-## https://keplerhg.github.io/
+## https://keplerhg.github.io/keplerhg
 
 ## Comenzando 🚀
 Este es un proyecto de un portafolio personal
