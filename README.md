@@ -2,7 +2,7 @@
 ## https://keplerhg.github.io/keplerhg/
 
 ## Comenzando 🚀
-Este es un proyecto de un portafolio personal
+Este es un proyecto de un portafolio personal (CV)
 
 ### Pre-requisitos 📋
 
@@ -14,4 +14,4 @@ Landing Page
 * Resposive
 * Modo dark
 * Idioma Ingles - Español
-* Secciones {Home - About - Skills - Projects}
+* Secciones {Home - About - Skills - Projects-Profile}
